@@ -1,0 +1,13 @@
+1.Design a sample personal web page using three separate pages such as
+            (i) Home page.
+           (ii) Educational Qualification
+           (iii) Contact me
+(iv) Use image map to which when clicked on will act as navbar.
+(v) Use Simple CSS selectors and combinators to style your sheet.
+2. Create a portal for your college using only HTML and CSS and demonstrate the use of
+            (i) Inline styles, Internal styles and External styles
+	(ii) Use flexbox and grid to achieve different kinds of layouts
+	(iii) experiment with the display and position properties and demonstrate how each affects 	and element.
+	(iv) Use Pseudo selectors to change the properties of the design
+	(v) Add simple animations using CSS alone
+	
